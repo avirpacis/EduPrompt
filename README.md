@@ -1,2 +1,2 @@
-# eduprompt
+# EduPrompt
  The future of Edtech.
