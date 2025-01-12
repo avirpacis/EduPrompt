@@ -1,2 +1,2 @@
 # eduprompt
- Frontend for EduPrompt AI, built with Next.js.
+ The future of Edtech
